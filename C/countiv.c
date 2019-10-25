@@ -1,4 +1,5 @@
 #include <stdio.h> 
+#include <iostream.h>
 int getInvCount(int arr[], int n) 
 { 
     int inv_count = 0; 
